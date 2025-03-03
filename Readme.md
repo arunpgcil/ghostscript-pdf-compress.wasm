@@ -31,4 +31,4 @@ yarn dev
 
 ## Blog
 
-I wrote a [post](https://meyer-laurent.com/playing-around-webassembly-and-ghostscript) about the process.
+laurentmmeyer wrote a [post](https://meyer-laurent.com/playing-around-webassembly-and-ghostscript) about the process.
